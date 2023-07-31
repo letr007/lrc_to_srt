@@ -1,4 +1,5 @@
 import os
+import re
 
 print("本程序用于将.lrc格式转.srt格式")
 print("Coryright ©letr")
